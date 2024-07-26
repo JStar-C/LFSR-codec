@@ -1,4 +1,3 @@
-# Makefile for PS1b
 # Author: Joseph Calles
 
 CC = g++
