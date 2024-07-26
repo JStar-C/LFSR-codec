@@ -1,9 +1,3 @@
-// pixels.cpp: 
-// using SFML to load a file, manipulate its pixels, write it to disk
-// Fred Martin, fredm@cs.uml.edu, Sun Mar  2 15:57:08 2014
-
-// g++ -o pixels pixels.cpp -lsfml-graphics -lsfml-window
-
 // include libaries 
 #include <SFML/System.hpp>
 #include <SFML/Window.hpp>
